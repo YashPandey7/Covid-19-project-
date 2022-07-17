@@ -23,5 +23,5 @@ I'm looking forward to contributing my skills and experiences.
 
 ## Screenshots
 
-![App Screenshot]()1.jpg)
+![App Screenshot](1.jpg)
 
